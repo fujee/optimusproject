@@ -40,7 +40,7 @@ ul.mainmenu {
 }
 .logo {
     position: relative;
-    font-size: 45px;
+    font-size: 40px;
     margin-left: auto;
     margin-right: auto;
     display: block;
@@ -343,7 +343,7 @@ img#sh1:hover {
 @media screen and (min-width: 920px) {
     .spmen {display: none;}
     .mainmenu1 {width:480px;}
-    .mainmenu {width:100%;}
+    .mainmenu {width:81%;}
     #spme {width:0;}
     .columnx {width: 322px;}
     .column {width: 25%;}
@@ -425,12 +425,10 @@ p.slika {
 }
 
 .footer {
-
+    position: relative;
     background:  #343434;
-
     font-family: 'Arvo', serif;
     text-align: center;
-
     font-weight: 200;
     margin-left: auto;
     margin-right: auto;
@@ -524,4 +522,81 @@ button#one{
     display: inline-block;
     margin: 0px 0px;
     cursor: pointer;
+}
+.content8 {
+    padding-bottom: 50px;
+
+    .cv {
+        display: block;
+        color: $primary-color;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+    p {
+        text-align: left!important;
+        padding-left: 20px;
+    }
+
+    @media screen and (max-width: 920px) {
+        .col1 {
+            p {
+                text-align: left;
+                padding-left: 10px;
+                padding-right: 10px;
+            }
+        }
+        .col2 {
+            text-align: center;
+            img {
+                width: 70%;
+            }
+        }
+    }
+
+    @media screen and (min-width: 920px) {
+        .col1 {
+            width: 70%;
+            float: left;
+        }
+        .col2 {
+            display: inline-block;
+            width: 30%;
+
+            img {
+                width: 90%;
+            }
+        }
+    }
+}
+
+.contact {
+    width: 40%;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    white-space: pre-wrap;
+    height: 100%;
+
+    .col2 {
+        padding-top: 30px;
+    }
+}
+
+@media screen and (max-width: 920px) {
+    .contact {
+        position: relative;
+        right: 0;
+        width: 100%;
+
+        .col2 {
+            padding-top: 0;
+        }
+    }
+}
+
+.shadowed-text {
+    text-shadow: 2px 2px #000000;
 }

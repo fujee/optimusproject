@@ -3,7 +3,7 @@
     <div class="content0">
         <h1>Range of Optimus engeenering</h1>
         <span class="module_underline"></span>
-        <p class="white">We have experience in small and medium sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analises and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
+        <p class="white shadowed-text">We have experience in small and medium sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analises and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
     </div>
     <div class="content1">
         <h1>Structural engineering </h1>
@@ -73,7 +73,7 @@
         <div class="content2">
             <h1>Details of structures</h1>
             <span class="module_underline"></span>
-            <p class="ds1" style="color:white;max-width:250px;">We make projects to the smallest details, <br> easily legible, <br> very comprehensive, so that the construction of buildings with our drawings becomes easy way.</p>
+            <p class="ds1 shadowed-text" style="color:white;max-width:250px;">We make projects to the smallest details, <br> easily legible, <br> very comprehensive, so that the construction of buildings with our drawings becomes easy way.</p>
         </div>
         <div class="content4">
             <h1>Geotehnical and hydrotechnical engineering</h1>
@@ -119,7 +119,26 @@
         <div class="content7">
             <h1> Science and research </h1>
             <span class="module_underline"></span>
-            <p>We are open minded for research and experiments in field of new materials and techniques in construction. <br>Feel free to contact us.</p>
+            <p class="white shadowed-text">We are open minded for research and experiments in field of new materials and techniques in construction. <br>Feel free to contact us.</p>
         </div>
-    </div>
+        <div class="content8" id="about-me">
+            <h1> About me </h1>
+            <span class="module_underline"></span>
+            <div class="col1">
+                <p>Jovan Furtula, MSc of civil engineering, was born on May 13, 1991. in Bijelo Polje. He
+                graduated in 2017. with A (10,00) grade point average, on master thesis: “Reinforced
+                concrete walls designed in shear according to the Eurocode 8”. He received several
+                rewards during studies, and worked on several significant projects so far.
+                <a href="/cv.pdf" target="_blank" class="cv">Curriculum Vitae</a>
+                </p>
+
+            </div>
+            <div class="col2">
+                <img src="./../assets/images/brand/me.png" alt="Jovan Furtula">
+            </div>
+        </div>
+
+</div>
+
+
 </template>

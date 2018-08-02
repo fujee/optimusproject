@@ -14,10 +14,10 @@
     <div id="mainmenu" style="background-color:white;">
         <div class="mainmenu1" style="background-color:white; margin:auto;">
             <ul class="mainmenu">
-                <li><a class="active" href="#home">HOME</a></li>
-                <li><a href="#Projects">PROJECTS</a></li>
-                <li><a href="#Biography">ABOUT US</a></li>
-                <li><a href="#Awards">NEWS</a></li>
+                <li><a href="/">HOME</a></li>
+                <!-- <li><a href="#Projects">PROJECTS</a></li> -->
+                <li><a href="#about-me">ABOUT ME</a></li>
+                <!-- <li><a href="#Awards">NEWS</a></li> -->
                 <li><a href="#footer">CONTACT</a></li>
             </ul>
         </div>
@@ -27,11 +27,11 @@
     </div>
     <div id="mySidenav" class="sidenav">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <a href="#">HOME</a>
-        <a href="#">PROJECTS</a>
-        <a href="#">ABOUT US</a>
-        <a href="#">NEWS</a>
-        <a href="#">CONTACT</a>
+        <a href="/">HOME</a>
+        <!-- <a href="#">PROJECTS</a> -->
+        <a href="#about-me">ABOUT ME</a>
+        <!-- <a href="#">NEWS</a> -->
+        <a href="#footer">CONTACT</a>
     </div>
     </div>
 </template>
