@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Arvo');
 
-$primary-color: #0296ff;
+$primary-color: #e60000;
 
 body {
     margin-left:0px;
@@ -46,7 +46,7 @@ ul.mainmenu {
     display: block;
     text-align: center;
     font-weight: bolder;
-    color: #0496ff;
+    color: #ff3333;
 }
 .footermenu {
     list-style-type: none;
@@ -269,6 +269,17 @@ a:hover:not(.active){
 .content7{
     position: initial;
     background-color: grey;
+    background-image: url("");
+    background-repeat: no-repeat;
+    padding-bottom: 50px;
+    background-position-x: 50%;
+    background-position-y: 50%;
+    background-size: cover;
+    box-sizing: border-box;
+}
+.content9{
+    position: initial;
+    background-color: white;
     background-image: url("");
     background-repeat: no-repeat;
     padding-bottom: 50px;
@@ -545,6 +556,12 @@ button#one{
                 padding-left: 10px;
                 padding-right: 10px;
             }
+            h3 {
+                text-align: left;
+                padding-left: 10px;
+                padding-right: 10px;
+                padding-top: 15px;
+            }
         }
         .col2 {
             text-align: center;
@@ -558,6 +575,13 @@ button#one{
         .col1 {
             width: 70%;
             float: left;
+
+            h3 {
+                text-align: left;
+                padding-left: 20px;
+                padding-right: 10px;
+                padding-top: 15px;
+            }
         }
         .col2 {
             display: inline-block;

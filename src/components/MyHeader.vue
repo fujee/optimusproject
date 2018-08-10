@@ -16,16 +16,16 @@
             <ul class="mainmenu">
                 <li><a href="/">HOME</a></li>
                 <!-- <li><a href="#Projects">PROJECTS</a></li> -->
-                <li><a href="#about-me">ABOUT ME</a></li>
+                <li><a href="#about-me">ABOUT US</a></li>
                 <!-- <li><a href="#Awards">NEWS</a></li> -->
-                <li><a href="#footer">CONTACT</a></li>
+                <li><a href="#contact">CONTACT</a></li>
             </ul>
         </div>
         <div id="spme" class="menubutton" style="background-color:#3a3a3a">
-            <span  class="spmen" style="color:white;cursor:pointer;position:absolute;right:20px;" onclick="openNav()">&#9776;</span>    <!-- ikona za menu -->
+            <span  class="spmen" style="color:#e60000;cursor:pointer;position:fixed;z-index:1001;right:20px;" onclick="openNav()">&#9776;</span>    <!-- ikona za menu -->
         </div>
     </div>
-    <div id="mySidenav" class="sidenav">
+    <div id="mySidenav" class="sidenav" style="z-index:1002;">
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="/">HOME</a>
         <!-- <a href="#">PROJECTS</a> -->

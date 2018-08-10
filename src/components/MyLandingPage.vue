@@ -122,9 +122,10 @@
             <p class="white shadowed-text">We are open minded for research and experiments in field of new materials and techniques in construction. <br>Feel free to contact us.</p>
         </div>
         <div class="content8" id="about-me">
-            <h1> About me </h1>
+            <h1> About us </h1>
             <span class="module_underline"></span>
             <div class="col1">
+                <h3 class="subTitle">Main civil engineer</h3>
                 <p>Jovan Furtula, MSc of civil engineering, was born on May 13, 1991. in Bijelo Polje. He
                 graduated in 2017. with A (10,00) grade point average, on master thesis: “Reinforced
                 concrete walls designed in shear according to the Eurocode 8”. He received several
@@ -137,7 +138,17 @@
                 <img src="./../assets/images/brand/me.png" alt="Jovan Furtula">
             </div>
         </div>
-
+        <div class="content9" id="contact">
+            <h1> Contact </h1>
+            <span class="module_underline"></span>
+            <div class="col1">
+                <p><strong>" OPTIMUSPROJECT " d.o.o.</strong></p>
+                    <p>mob. tel. +382 69 245 322<br/>
+                    tel. +382 20 660 834<br/>
+                    mail: furtulajovan@gmail.com<br/>
+                    mail: furtulajovan@t-com.me</p>
+            </div>
+        </div>
 </div>
 
 
