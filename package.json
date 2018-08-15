@@ -2,11 +2,15 @@
   "name": "optimusproject",
   "version": "0.1.0",
   "description": "desc",
-  "repository": "optimusproject",
-  "author": "Furtula Filip",
+  "repository": "fujee/optimusproject",
+  "author": "Furtula Filip @fujee",
   "homepage": "https://github.com/fujee/optimusproject",
   "bugs": "",
   "bin": "",
+  "main": "dist",
+  "engines": {
+    "node": ">= 6.9.0 <7.0.0 || >= 8.9.0"
+  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
