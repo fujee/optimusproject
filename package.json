@@ -7,10 +7,6 @@
   "homepage": "https://github.com/fujee/optimusproject",
   "bugs": "",
   "bin": "",
-  "main": "dist",
-  "engines": {
-    "node": ">= 6.9.0 <7.0.0 || >= 8.9.0"
-  },
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
