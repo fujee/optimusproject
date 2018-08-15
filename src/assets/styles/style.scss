@@ -180,6 +180,7 @@ a:hover:not(.active){
     box-sizing: border-box;
 }
 .content0{
+    padding-top: 50px;
     position: relative;
     box-sizing: border-box;
     min-height:70%;
@@ -344,6 +345,8 @@ img#sh1:hover {
     button#one{padding: 3px 10px;font-size: 7px;}
 }
 @media screen and (max-width: 920px) {
+    .content0{padding-top: 50px;}
+    .header {height: 100px; position: fixed; z-index: 1004; width: 100%;}
     .mainmenu {width:0%;}
     .columnx {width: 100%;}
     .column0{width: 100%;}
