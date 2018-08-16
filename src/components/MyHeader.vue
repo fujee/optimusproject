@@ -29,6 +29,7 @@
         <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
         <a href="/">HOME</a>
         <!-- <a href="#">PROJECTS</a> -->
+        <!-- <a href="#">PROJECTS</a> -->
         <a href="#about-me">ABOUT US</a>
         <!-- <a href="#">NEWS</a> -->
         <a href="#footer">CONTACT</a>
