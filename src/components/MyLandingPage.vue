@@ -1,7 +1,7 @@
 <template>
     <div class="maincontent">
     <div class="content0">
-        <h1>Range of Optimus engeenering</h1>
+        <h1>Range of Optimus engineering</h1>
         <span class="module_underline"></span>
         <p class="white shadowed-text">We have experience in small and medium sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analises and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
     </div>
