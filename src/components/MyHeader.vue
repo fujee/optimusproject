@@ -5,7 +5,7 @@
         </div>
         <div class="column0" style="background-color:white;">
             <a href="#" class="logo">
-                OptimusProject
+            <img id="logo" src="./../assets/images/brand/logo-header.jpg" alt="OptimusProject" style="border:5px; border-color:#660000;margin-left:auto;margin-top: -10px;display:block;margin-right:auto;">
             </a>
         </div>
         <div class="column0" style="background-color:white;">

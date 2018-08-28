@@ -3,12 +3,12 @@
     <div class="content0">
         <h1>Range of Optimus engeenering</h1>
         <span class="module_underline"></span>
-        <p class="white shadowed-text">We have experience in small and medium sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analises and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
+        <p class="white shadowed-text">We have experience in small and medium-sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analyses and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
     </div>
     <div class="content1">
         <h1>Structural engineering </h1>
         <span class="module_underline"></span>
-        <p>Our design is moustly based on Eurocodes. For analyses we use various of progams in structural engineering, depending on the type of facility, to have the best correspondence with reality.</p>
+        <p>Our design is mostly based on Eurocodes. For analyses we use various programs in structural engineering, depending on the type of facility, to have the best correspondence with reality.</p>
         <div class="slideshow-container">
             <div class="mySlides">
                 <img src="./../assets/images/SE_1.jpg" style="width:100%">
@@ -52,17 +52,17 @@
             <div class="column" style="background-color:black;">
             </div>
             <div class="column" style="background-color:black;">
-                <p style="color:green; margin:0;padding:0;max-width:100%;font-size:15px;">BIM model of sixteen-storey building</p>
-                <img id="sh1" src="./../assets/images/EE_1.jpg" style="width:100%">
+                <p class="naslika" style="color:green; margin:0;padding:0;max-width:100%;text-align:center;">BIM model of sixteen-storey building</p>
+                <img id="sh1" style="display:block; margin:auto;" src="./../assets/images/EE_1.jpg">
             </div>
             <div class="column" style="background-color:black; text-align:center;">
-                <p style="color:green; margin:0;padding:0;max-width:100%;font-size:15px;">Nonlinear behavior at RC core during the actual earthquake</p>
-                <video id="video1" width="90%" object-fit="content"  >
+                <p class="naslika" style="color:green; margin:0;padding:0;max-width:100%;text-align:center;">Nonlinear behavior at RC core during the actual earthquake</p>
+                <video id="video1" style="display:block; margin:auto;width=90%;" object-fit="content"  >
                     <source src="./../assets/other/EE_3.webm" type="video/webm">
                         Your browser does not support HTML5 video.
                     </video>
                     <p class="slika" style="color:white;">deformations d/c ratio</p>
-                    <img src="./../assets/images/EE_4.jpg" style="width:40%; margin-left: auto; margin-right: auto;">
+                    <img id="sh2" src="./../assets/images/EE_4.jpg" style="margin-left: auto; margin-right: auto;">
                     <br>
                     <button id="one" onclick="playPause()">Play/Pause</button>
                 </div>
@@ -73,7 +73,7 @@
         <div class="content2">
             <h1>Details of structures</h1>
             <span class="module_underline"></span>
-            <p class="ds1 shadowed-text" style="color:white;max-width:250px;">We make projects to the smallest details, <br> easily legible, <br> very comprehensive, so that the construction of buildings with our drawings becomes easy way.</p>
+            <p class="ds1" style="color:white;">We make projects to the smallest details, easily legible, very comprehensive, so that the construction of buildings with our drawings becomes easy way.</p>
         </div>
         <div class="content4">
             <h1>Geotehnical and hydrotechnical engineering</h1>
@@ -119,35 +119,50 @@
         <div class="content7">
             <h1> Science and research </h1>
             <span class="module_underline"></span>
-            <p class="white shadowed-text">We are open minded for research and experiments in field of new materials and techniques in construction. <br>Feel free to contact us.</p>
+            <p class="white shadowed-text">We are open-minded for research and experiments in field of new materials and techniques in construction. <br>Feel free to contact us.</p>
         </div>
         <div class="content8" id="about-me">
             <h1> About us </h1>
             <span class="module_underline"></span>
-            <div class="col1">
-                <h3 class="subTitle">Main civil engineer</h3>
-                <p>Jovan Furtula, MSc of civil engineering, was born on May 13, 1991. in Bijelo Polje. He
-                graduated in 2017. with A (10,00) grade point average, on master thesis: “Reinforced
-                concrete walls designed in shear according to the Eurocode 8”. He received several
-                rewards during studies, and worked on several significant projects so far.
-                <a href="/cv.pdf" target="_blank" class="cv">Curriculum Vitae</a>
-                </p>
-
+            <div class="row">
+                <div class="column2 left" style="background-color:white;">
+                </div>
+                <div class="column2 middle" style="background-color:white;">
+                    <div class="col1">
+                    <h3 class="subTitle">Jovan Furtula<br/>Executive officer, MSc of civil engineering </h3>
+                    <p>Born on May 13, 1991 in Bijelo Polje. He
+                    graduated in 2013 with A (10,00) grade point average. In 2017 he got master's degree, with master's thesis: “Reinforced
+                    concrete walls designed in shear according to the Eurocode 8”. He received several
+                    rewards during studies, and worked on several significant projects so far, such as design of highway bridges and residential buildings.
+                    <a href="/cv.pdf" target="_blank" class="cv">Curriculum Vitae</a>
+                    </p>
+                    </div>
+                    <div class="col2">
+                    <img src="./../assets/images/brand/me.png" alt="Jovan Furtula">
+                    </div>
+                </div>
+                <div class="column2 right" style="background-color:white;">
+                </div>
             </div>
-            <div class="col2">
-                <img src="./../assets/images/brand/me.png" alt="Jovan Furtula">
-            </div>
+        
+            
         </div>
         <div class="content9" id="contact">
             <h1> Contact </h1>
             <span class="module_underline"></span>
             <div class="col1">
-                <p><strong>" OPTIMUSPROJECT " d.o.o.</strong></p>
-                    <p>mob. tel. +382 69 245 322<br/>
-                    tel. +382 20 660 834<br/>
-                    mail: furtulajovan@gmail.com<br/>
-                    mail: furtulajovan@t-com.me</p>
+                <p class="contact"><strong>" OPTIMUSPROJECT " d.o.o.<br/>Podgorica, Montenegro</strong><br/></p>
+                <ul class="social">
+                   <li><a href="https://www.facebook.com/539068873177984/" class="fa fa-facebook"></a></li>
+                   <li><a href="#" class="fa fa-linkedin"></a></li>
+                </ul>
+                <p class="contact1">
+                   mob. tel. +382 69 245 322<br/>
+                   mob. tel. +382 67 013 789<br/>
+                   e-mail: optimusproject.me@gmail.com<br/>
+                </p>
             </div>
+            
         </div>
 </div>
 
