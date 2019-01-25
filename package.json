@@ -11,7 +11,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-    "publish": "vue-cli-service build && node_modules/gh-pages/bin/gh-pages.js -d dist"
+    "publish": "vue-cli-service build && gh-pages -d dist"
   },
   "dependencies": {
     "gh-pages": "^1.2.0",
