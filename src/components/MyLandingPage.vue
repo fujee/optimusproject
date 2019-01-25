@@ -1,7 +1,7 @@
 <template>
     <div class="maincontent">
     <div class="content0">
-        <h1>Range of Optimus engineering</h1>
+        <h01>Range of Optimus engineering</h01>
         <span class="module_underline"></span>
         <p class="white shadowed-text">We have experience in small and medium-sized buildings, bridge design, maritime structures, prestressed structures, geotehnical design, nonlinear analyses and seismic design of structures. <br>Particular attention during the design we give to the feasibility of our facilities, as well as the quality and quantity of materials and construction cost price.</p>
     </div>
@@ -11,7 +11,10 @@
         <p>Our design is mostly based on Eurocodes. For analyses we use various programs in structural engineering, depending on the type of facility, to have the best correspondence with reality.</p>
         <div class="slideshow-container">
             <div class="mySlides">
-                <img src="./../assets/images/SE_1.jpg" style="width:100%">
+                <img src="./../assets/images/SE_0.png" style="width:100%">
+            </div>
+            <div class="mySlides">
+                <img src="./../assets/images/SE_5.jpg" style="width:100%">
             </div>
             <div class="mySlides">
                 <img src="./../assets/images/SE_2.jpg" style="width:100%">
@@ -23,7 +26,7 @@
                 <img src="./../assets/images/SE_4.jpg" style="width:100%">
             </div>
             <div class="mySlides">
-                <img src="./../assets/images/SE_5.jpg" style="width:100%">
+                <img src="./../assets/images/SE_1.jpg" style="width:100%">
             </div>
             <div class="mySlides">
                 <img src="./../assets/images/SE_6.jpg" style="width:100%">
@@ -34,6 +37,7 @@
             <br>
 
             <div style="text-align:center">
+                <span class="dot"></span>
                 <span class="dot"></span>
                 <span class="dot"></span>
                 <span class="dot"></span>
@@ -56,7 +60,7 @@
                 <img id="sh1" style="display:block; margin:auto;" src="./../assets/images/EE_1.jpg">
             </div>
             <div class="column" style="background-color:black; text-align:center;">
-                <p class="naslika" style="color:green; margin:0;padding:0;max-width:100%;text-align:center;">Nonlinear behavior at RC core during the actual earthquake</p>
+                <p class="naslika" style="color:green; margin:0;padding:0;max-width:100%;text-align:center;">Nonlinear behavior at RC core during the real hapend earthquake</p>
                 <video id="video1" style="display:block; margin:auto;width=90%;" object-fit="content"  >
                     <source src="./../assets/other/EE_3.webm" type="video/webm">
                         Your browser does not support HTML5 video.
@@ -133,8 +137,13 @@
                     <p>Born on May 13, 1991 in Bijelo Polje. He
                     graduated in 2013 with A (10,00) grade point average. In 2017 he got master's degree, with master's thesis: “Reinforced
                     concrete walls designed in shear according to the Eurocode 8”. He received several
-                    rewards during studies, and worked on several significant projects so far, such as design of highway bridges and residential buildings.
-                    <a href="/cv.pdf" target="_blank" class="cv">Curriculum Vitae</a>
+                    rewards during studies, and worked on several significant projects so far, such as design of highway bridges, cable-stayed bridge and residential buildings.
+                        <ul class="about1">
+                            <li><a href="/cv.pdf" target="_blank" class="cv">Curriculum Vitae</a></li> <br>
+                            <li><a href="/Portfolio.pdf" target="_blank" class="cv">Portfolio</a></li> <br>
+                            <li><a href="/License.pdf" target="_blank" class="cv">Authorized engineer license</a></li> <br>
+                            <li><a href="/License1.pdf" target="_blank" class="cv">License of the designer and contractor</a></li>
+                        </ul>
                     </p>
                     </div>
                     <div class="col2">
@@ -153,8 +162,8 @@
             <div class="col1">
                 <p class="contact"><strong>" OPTIMUSPROJECT " d.o.o.<br/>Podgorica, Montenegro</strong><br/></p>
                 <ul class="social">
-                   <li><a href="https://www.facebook.com/539068873177984/" class="fa fa-facebook"></a></li>
-                   <li><a href="#" class="fa fa-linkedin"></a></li>
+                   <li><a href="https://www.facebook.com/539068873177984/" target="_blank" class="fa fa-facebook"></a></li>
+                   <li><a href="https://www.linkedin.com/company/optimusproject" target="_blank" class="fa fa-linkedin"></a></li>
                 </ul>
                 <p class="contact1">
                    mob. tel. +382 69 245 322<br/>

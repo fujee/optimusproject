@@ -4,6 +4,6 @@
         <img id="logo_footer" src="./../assets/images/brand/logo-footer.jpg" alt="OptimusProject" style="border:5px; border-color:#660000;margin:0px;background-color:#343434">
     </a>
     <p class="footermenu">
-    Copyright &#169; OptimusProject 2018 </p>
+    Copyright &#169; OptimusProject 2019 </p>
 </div>
 </template>
