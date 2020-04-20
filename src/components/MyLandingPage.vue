@@ -153,7 +153,22 @@
                 <div class="column2 right" style="background-color:white;">
                 </div>
             </div>
-        
+            <div class="row">
+                <div class="column2 left" style="background-color:white;">
+                </div>
+                <div class="column2 middle" style="background-color:white;">
+                    <div class="col1">
+                    <h3 class="subTitle">Tijana Radinović<br/>designer, Spec.sci of civil engineering </h3>
+                    <p> She worked on several significant projects so far, such as design of bridges and residential buildings. Her main interest in civil engineering is seismic design of high buildings. 
+                    </p>
+                    </div>
+                    <div class="col2">
+                    <img src="./../assets/images/brand/tija.png" alt="Tijana Radinović">
+                    </div>
+                </div>
+                <div class="column2 right" style="background-color:white;">
+                </div>
+            </div>
             
         </div>
         <div class="content9" id="contact">
