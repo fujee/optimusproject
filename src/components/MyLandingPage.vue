@@ -163,7 +163,7 @@
                     </p>
                     </div>
                     <div class="col2">
-                    <img src="./../assets/images/brand/tija.png" alt="Tijana Radinović">
+                    <img src="./../assets/images/brand/tija.jpg" alt="Tijana Radinović">
                     </div>
                 </div>
                 <div class="column2 right" style="background-color:white;">
