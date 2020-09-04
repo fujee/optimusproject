@@ -21,7 +21,7 @@
     "@vue/cli-plugin-babel": "^3.0.0-rc.10",
     "@vue/cli-plugin-eslint": "^3.0.0-rc.10",
     "@vue/cli-service": "^3.0.0-rc.10",
-    "node-sass": "^4.9.3",
+    "node-sass": "^4.13.1",
     "prerender-spa-plugin": "^3.2.1",
     "rebuild-node-sass": "^1.1.0",
     "sass-loader": "^7.0.3",
