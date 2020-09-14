@@ -158,18 +158,34 @@
                 </div>
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
-                    <h3 class="subTitle">Tijana Radinović<br/>designer, Spec.sci of civil engineering </h3>
-                    <p> She worked on several significant projects so far, such as design of bridges and residential buildings. Her main interest in civil engineering is seismic design of high buildings. 
+                    <h3 class="subTitle">Tijana Leković<br/>Designer, Spec.sci of civil engineering </h3>
+                    <p> She worked on several significant projects so far, such as design of bridges and residential buildings. Also she has nice experience from construction site.
                     </p>
                     </div>
                     <div class="col2">
-                    <img src="./../assets/images/brand/tija.jpg" alt="Tijana Radinović">
+                    <img src="./../assets/images/brand/tija.jpg" alt="Tijana Leković">
                     </div>
                 </div>
                 <div class="column2 right" style="background-color:white;">
                 </div>
             </div>
-            
+            <div class="row">
+                <div class="column2 left" style="background-color:white;">
+                </div>
+                <div class="column2 middle" style="background-color:white;">
+                    <div class="col1">
+                    <h3 class="subTitle">Darko Ognjenović<br/>Designer, Spec.sci of civil engineering </h3>
+                    <p> He worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, espetialy steel ones.
+                    </p>
+                    </div>
+                    <div class="col2">
+                    <img src="./../assets/images/brand/dasa.jpg" alt="Darko Ognjenović">
+                    </div>
+                </div>
+                <div class="column2 right" style="background-color:white;">
+                </div>
+            </div>
+
         </div>
         <div class="content9" id="contact">
             <h1> Contact </h1>
