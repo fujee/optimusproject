@@ -162,7 +162,7 @@
                     <p> She worked on several significant projects so far, such as design of bridges and residential buildings. Also she has nice experience from construction site.
                     </p>
                     </div>
-                    <div class="col2">
+                    <div class="col2" style="padding:80;">
                     <img src="./../assets/images/brand/tija.jpg" alt="Tijana Leković">
                     </div>
                 </div>
@@ -175,10 +175,10 @@
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
                     <h3 class="subTitle">Darko Ognjenović<br/>Designer, Spec.sci of civil engineering </h3>
-                    <p> He worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, espetialy steel ones.
+                    <p> He worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, especially steel ones.
                     </p>
                     </div>
-                    <div class="col2">
+                    <div class="col2" style="padding:100;">
                     <img src="./../assets/images/brand/dasa.jpg" alt="Darko Ognjenović">
                     </div>
                 </div>
