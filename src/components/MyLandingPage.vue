@@ -213,7 +213,7 @@
                 <ul class="social">
                    <li><a href="https://www.facebook.com/539068873177984/" target="_blank" class="fa fa-facebook"></a></li>
                    <li><a href="https://www.linkedin.com/company/optimusproject" target="_blank" class="fa fa-linkedin"></a></li>
-                   <li><a href="https://www.instagram.com/company/optimusproject" target="_blank" class="fa fa-instagram"></a></li>
+                   <li><a href="https://www.instagram.com/optimusproject.me/" target="_blank" class="fa fa-instagram"></a></li>
                 </ul>
                 <p class="contact1">
                    mob. tel. +382 69 245 322<br/>
