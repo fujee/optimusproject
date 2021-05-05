@@ -213,11 +213,13 @@
                 <ul class="social">
                    <li><a href="https://www.facebook.com/539068873177984/" target="_blank" class="fa fa-facebook"></a></li>
                    <li><a href="https://www.linkedin.com/company/optimusproject" target="_blank" class="fa fa-linkedin"></a></li>
+                   <li><a href="https://www.instagram.com/company/optimusproject" target="_blank" class="fa fa-instagram"></a></li>
                 </ul>
                 <p class="contact1">
                    mob. tel. +382 69 245 322<br/>
                    mob. tel. +382 67 013 789<br/>
                    e-mail: optimusproject.me@gmail.com<br/>
+                   e-mail: optimusproject.sr@gmail.com<br/>
                 </p>
             </div>
             
