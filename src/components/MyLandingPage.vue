@@ -158,8 +158,26 @@
                 </div>
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
+                    <h3 class="subTitle">Ana Ristivojević<br/>Creative director, MA of Art Theory  </h3>
+                    <p>Born on October 13, 1991 in Belgrade. She
+                    graduated in 2014 with A (10,00) grade point average, and hold Master degree (2015) in Music theory. She received several
+                    rewards during studies and work. She is the multi-talented artist with a strong sense of business.
+                    </p>
+                    </div>
+                    <div class="col2">
+                    <img src="./../assets/images/brand/Ana.jpg" alt="Jovan Furtula">
+                    </div>
+                </div>
+                <div class="column2 right" style="background-color:white;">
+                </div>
+            </div>
+            <div class="row">
+                <div class="column2 left" style="background-color:white;">
+                </div>
+                <div class="column2 middle" style="background-color:white;">
+                    <div class="col1">
                     <h3 class="subTitle">Tijana Leković<br/>Designer, Spec.sci of civil engineering </h3>
-                    <p> She worked on several significant projects so far, such as design of bridges and residential buildings. Also she has nice experience from construction site.
+                    <p> Born on May 03, 1995 in Podgorica. She graduated in 2019. Even though, he worked on several significant projects so far, such as design of bridges and residential buildings. Also she has nice experience from construction site.
                     </p>
                     </div>
                     <div class="col2" style="padding:80;">
@@ -175,7 +193,7 @@
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
                     <h3 class="subTitle">Darko Ognjenović<br/>Designer, Spec.sci of civil engineering </h3>
-                    <p> He worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, especially steel ones.
+                    <p> Born on November 26, 1995 in Podgorica. He graduated in 2019. Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, especially steel ones.
                     </p>
                     </div>
                     <div class="col2" style="padding:100;">
