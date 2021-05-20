@@ -219,7 +219,7 @@
                    mob. tel. +382 69 245 322<br/>
                    mob. tel. +382 67 013 789<br/>
                    e-mail: optimusproject.me@gmail.com<br/>
-                   e-mail: optimusproject.sr@gmail.com<br/>
+                   e-mail: optimusproject.rs@gmail.com<br/>
                 </p>
             </div>
             
