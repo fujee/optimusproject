@@ -175,10 +175,10 @@
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
                     <h3 class="subTitle">Luka Šćepanović<br/>Structural engineer, Msc of civil engineering </h3>
-                    <p> Born on July 25, 1998 in Bijelo Polje. He graduated in 2022. Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are new materials.
+                    <p> Born on July 25, 1998 in Bijelo Polje. He graduated in 2022. Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering is new materials.
                     </p>
                     </div>
-                    <div class="col2" style="padding:100;">
+                    <div class="col2" style="padding:80;">
                     <img src="./../assets/images/brand/luka.jpg" alt="Luka Šćepanović">
                     </div>
                 </div>
@@ -191,10 +191,10 @@
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
                     <h3 class="subTitle">Stefan Kandić<br/>Structural engineer, Spec.sci of civil engineering  </h3>
-                    <p>Born on July 11, 1997 in Nikšić. He graduated in 2020. In addition to the design, he has an affinity for testing and construction of structures.
+                    <p>Born on July 11, 1997 in Nikšić. He graduated in 2020.Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. In addition to the design, he has an affinity for testing and construction of structures.
                     </p>
                     </div>
-                    <div class="col2">
+                    <div class="col2" style="padding:80;">
                     <img src="./../assets/images/brand/Stefan.jpg" alt="Stefan Kandić">
                     </div>
                 </div>
