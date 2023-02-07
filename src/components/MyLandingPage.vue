@@ -158,7 +158,7 @@
                 </div>
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
-                    <h3 class="subTitle">Darko Ognjenović<br/>Designer, Spec.sci of civil engineering </h3>
+                    <h3 class="subTitle">Darko Ognjenović<br/>Structural engineer, Spec.sci of civil engineering </h3>
                     <p> Born on November 26, 1995 in Podgorica. He graduated in 2019. Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are industrial facilities, especially steel ones.
                     </p>
                     </div>
@@ -174,7 +174,7 @@
                 </div>
                 <div class="column2 middle" style="background-color:white;">
                     <div class="col1">
-                    <h3 class="subTitle">Luka Šćepanović<br/>Designer, Msc of civil engineering </h3>
+                    <h3 class="subTitle">Luka Šćepanović<br/>Structural engineer, Msc of civil engineering </h3>
                     <p> Born on July 25, 1998 in Bijelo Polje. He graduated in 2022. Even though, he worked as designer on several significant projects so far, such as design of bridges, residential buildings, industrial facilities. His main interest in civil engineering are new materials.
                     </p>
                     </div>
